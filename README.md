@@ -1,6 +1,5 @@
 # cucu-frontend
 CUCU Website Frontend — React 18 + Vite + Tailwind"
-# DravTech
 
 A [React](https://react.dev) project bootstrapped with [Vite](https://vitejs.dev).
 
